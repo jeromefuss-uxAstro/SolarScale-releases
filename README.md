@@ -2,8 +2,7 @@
 
 **Annotation scientifique d'images solaires** — pour astrophotographes solaires.
 
-SolarScale ajoute à vos images du Soleil (lunette + filtre Hα, caméra astro) des
-annotations à l'échelle, prêtes à publier :
+SolarScale ajoute à vos images du Soleil des annotations à l'échelle, prêtes à publier :
 
 - 🌍 **La Terre à l'échelle**, incrustée à côté du disque solaire
 - 📏 **Arcs d'altitude** (50 000 / 100 000 / 150 000 km…) parallèles au limbe,
