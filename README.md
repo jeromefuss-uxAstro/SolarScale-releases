@@ -1,6 +1,6 @@
 # SolarScale
 
-**Annotation scientifique d'images solaires Hα** — pour astrophotographes solaires.
+**Annotation scientifique d'images solaires — pour astrophotographes solaires.
 
 SolarScale ajoute à vos images du Soleil (lunette + filtre Hα, caméra astro) des
 annotations à l'échelle, prêtes à publier :
